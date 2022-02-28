@@ -1,14 +1,14 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Overview of Project
 
-In this project, we will work for PyBer, a Python-based ride-sharing app company, to perform an exploratory analysis of data. 
+To perform an exploratory analysis of data for PyBer, a Python-based ride-sharing app company.
 
 We will create several types of visualizations by using Matplotlib that showcase the relationship between the type of city, the number of drivers and riders, and the percentage of total fares, riders, and drivers by type of city. 
 
 ### Purpose
 
-The purpose of this analysis is to help PyBer improve access to ride-sharing services and determine affordability for underserved neighborhoods, then the company can be more successful.
+To help PyBer improve access to ride-sharing services and determine affordability for underserved neighborhoods, then the company can be more successful.
 
 ## Results
 
